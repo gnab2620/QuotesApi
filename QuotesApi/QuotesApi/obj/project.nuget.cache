@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Yv1BpzfkTTZ4qnyhk6TYe2dqoDUiPYnz0XjTp0lcmEx6NzdMqPVFONHzvAKx7m1gbzN75TiiLHat6a0AvccSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PTG\\Desktop\\Fresher.Net\\QuotesApi\\QuotesApi\\QuotesApi\\QuotesApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PTG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
